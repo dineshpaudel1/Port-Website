@@ -109,15 +109,7 @@ nav.sticky .menu-btn{
 }
 
 /* home section styling */
-.home{
-  height: 100vh;
-  width: 100%;
-  background-image:url(/image/cover.jpg);
-  background-size: cover;
-  background-position: center;
-  background-attachment: fixed;
-  font-family: 'Ubuntu', sans-serif;
-}
+
 .home .home-content{
   width: 90%;
   height: 100%;
